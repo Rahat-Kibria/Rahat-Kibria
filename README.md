@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahat-Kibria
-- 👀 I’m interested in Web Design and Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning laravel (php framework)
-- 💞️ I’m looking to collaborate on Web Design and Web Development Projects
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me : rahatkibriawahee@gmail.com
 
 <!---
